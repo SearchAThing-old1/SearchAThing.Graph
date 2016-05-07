@@ -49,7 +49,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\SearchAThing.Collections\SearchAThing.Collections\SearchAThing.Collections.csproj">
+    <ProjectReference Include="..\..\SearchAThing.Collections\src\SearchAThing.Collections.csproj">
       <Project>{5b7d3f82-9b6f-476f-873f-92a36b96e8ed}</Project>
       <Name>SearchAThing.Collections</Name>
     </ProjectReference>
