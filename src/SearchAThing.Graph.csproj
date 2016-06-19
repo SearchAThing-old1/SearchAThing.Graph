@@ -49,9 +49,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\SearchAThing.Collections\src\SearchAThing.Collections.csproj">
-      <Project>{5b7d3f82-9b6f-476f-873f-92a36b96e8ed}</Project>
-      <Name>SearchAThing.Collections</Name>
+    <ProjectReference Include="..\..\SearchAThing.Core\src\SearchAThing.Core.csproj">
+      <Project>{8162A30E-A46D-4A78-BA12-1F376AC6F1B4}</Project>
+      <Name>SearchAThing.Core</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

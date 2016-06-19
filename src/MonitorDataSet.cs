@@ -23,7 +23,7 @@
 */
 #endregion
 
-using SearchAThing.Collections;
+using SearchAThing.Core;
 using System;
 using System.Collections.Generic;
 
