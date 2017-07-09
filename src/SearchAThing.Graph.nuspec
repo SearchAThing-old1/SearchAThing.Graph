@@ -9,7 +9,7 @@
     <licenseUrl>https://github.com/devel0/SearchAThing.Graph/blob/master/LICENSE.md</licenseUrl>
     <projectUrl>https://github.com/devel0/SearchAThing.Graph</projectUrl>    
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description></description>
+    <description>Plot helper used in ArduiPi_OLED project. Example: https://github.com/hallard/ArduiPi_OLED/blob/master/mono/sshot/cpu1s.jpg</description>
     <releaseNotes>initial package</releaseNotes>
     <copyright>Copyright(C) 2017 Lorenzo Delana</copyright>
     <tags>c# IoT graph</tags>
