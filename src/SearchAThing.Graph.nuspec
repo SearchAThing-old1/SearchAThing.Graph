@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SearchAThing.Graph</id>
+    <version>1.0.0</version>
+    <title>Plot helper for IoT devices</title>
+    <authors>Lorenzo Delana</authors>
+    <owners>Lorenzo Delana</owners>
+    <licenseUrl>https://github.com/devel0/SearchAThing.Graph/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/devel0/SearchAThing.Graph</projectUrl>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description></description>
+    <releaseNotes>initial package</releaseNotes>
+    <copyright>Copyright(C) 2017 Lorenzo Delana</copyright>
+    <tags>c# IoT graph</tags>
+    <dependencies>      
+    </dependencies>
+  </metadata>  
+</package>

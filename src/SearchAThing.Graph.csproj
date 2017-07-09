@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SearchAThing.Graph</RootNamespace>
     <AssemblyName>SearchAThing.Graph</AssemblyName>
-    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
   </PropertyGroup>
@@ -50,10 +50,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\SearchAThing.Core\src\SearchAThing.Core.csproj">
-      <Project>{8162A30E-A46D-4A78-BA12-1F376AC6F1B4}</Project>
-      <Name>SearchAThing.Core</Name>
-    </ProjectReference>
+    <PackageReference Include="SearchAThing.Core">
+      <Version>1.0.0-CI00012</Version>
+    </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
